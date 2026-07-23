@@ -92,9 +92,10 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 
 # 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abo%20Elmaged-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-abo-elmaged/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 📧 Email: YOUR_EMAIL
 
