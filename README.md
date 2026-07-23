@@ -2,9 +2,9 @@
 
 # Youssef Abo El-Magd
 
-### 📊 Junior Data Analyst | SQL | Python | Power BI | Excel
+### 📊 Junior Data Analyst | 🤖 AI & Deep Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Cleaning+%7C+Visualization;Always+Learning+New+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+Visualization;Machine+Learning+%7C+Deep+Learning;Building+Data-Driven+Solutions" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -14,20 +14,29 @@
 
 # 👨‍💻 About Me
 
-🎓 Junior Data Analyst passionate about transforming raw data into meaningful insights.
+🎓 Junior Data Analyst passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
 📊 Interested in:
 - Data Analysis
 - Data Visualization
 - Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
-🌱 Currently Learning:
-- SQL
-- Machine Learning
-- AI for Data Analysis
+🧠 Exploring:
+- Machine Learning Algorithms
+- Deep Learning Models
+- Neural Networks
+- AI Applications for Data Analysis
+
+🛠️ Working with:
+- Python, SQL, Excel, and Power BI
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
 💡 My Goal:
-Become a professional Data Analyst and build impactful data-driven solutions.
+Become a professional Data Analyst and AI practitioner by combining data analytics skills with modern AI technologies. 🚀
 
 ---
 
@@ -43,6 +52,13 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### AI & Deep Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
 ### BI & Visualization
 
@@ -64,13 +80,30 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 
 # 📂 Featured Projects
 
-📊 Sales Dashboard using Power BI
+📊 **Sales Dashboard using Power BI**  
+Interactive dashboard for analyzing sales performance and business metrics.
 
-📈 Customer Churn Prediction
+📈 **Customer Churn Prediction**  
+Machine Learning model to predict customer churn using classification techniques.
 
-🤖 Restaurant Sentiment Analysis
+🤖 **Restaurant Sentiment Analysis**  
+NLP project to analyze customer reviews and classify sentiments.
 
-📉 SQL Data Analysis Projects
+⚡ **Solar Power Forecasting using LSTM**  
+Deep Learning project using LSTM networks for time-series forecasting.
+
+📉 **SQL Data Analysis Projects**  
+Data exploration and analysis using SQL queries.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL Queries
+- Machine Learning Algorithms
+- Deep Learning with Neural Networks
+- Artificial Intelligence Applications
+- Data Analytics Best Practices
 
 ---
 
@@ -88,10 +121,10 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Abo%20Elmaged-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-abo-elmaged/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github)](https://github.com/youssefaboelmaged942-del)
 
 
-📧 Email: Youssef Abo El-Magd 
+📧 Email: Youssef Abo El-Magd
 
 ---
 
@@ -99,6 +132,6 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 
 ### ⭐ Thanks for visiting my profile!
 
-"Turning Data into Decisions."
+"Turning Data into Decisions with Analytics & AI."
 
 </div>
