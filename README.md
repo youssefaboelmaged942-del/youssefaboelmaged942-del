@@ -1,6 +1,6 @@
 <div align="center">
 
-# Youssef Abo El-Maged
+# Youssef Abo El-Magd
 
 ### 📊 Junior Data Analyst | SQL | Python | Power BI | Excel
 
@@ -91,7 +91,7 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 
-📧 Email: Youssef Abo El-Maged 
+📧 Email: Youssef Abo El-Magd 
 
 ---
 
