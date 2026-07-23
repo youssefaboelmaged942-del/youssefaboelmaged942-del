@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Youssef Abo Elmaged
+# Youssef Abo El-Maged
 
 ### 📊 Junior Data Analyst | SQL | Python | Power BI | Excel
 
@@ -18,14 +18,12 @@
 
 📊 Interested in:
 - Data Analysis
-- Business Intelligence
 - Data Visualization
 - Machine Learning
 
 🌱 Currently Learning:
-- Advanced SQL
+- SQL
 - Machine Learning
-- Microsoft Fabric
 - AI for Data Analysis
 
 💡 My Goal:
@@ -54,12 +52,10 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
@@ -73,8 +69,6 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 📈 Customer Churn Prediction
 
 🤖 Restaurant Sentiment Analysis
-
-⚡ Solar Power Forecasting using LSTM
 
 📉 SQL Data Analysis Projects
 
@@ -97,7 +91,7 @@ Become a professional Data Analyst and build impactful data-driven solutions.
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 
-📧 Email: YOUR_EMAIL
+📧 Email: Youssef Abo El-Maged 
 
 ---
 
