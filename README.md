@@ -89,9 +89,6 @@ Machine Learning model to predict customer churn using classification techniques
 🤖 **Restaurant Sentiment Analysis**  
 NLP project to analyze customer reviews and classify sentiments.
 
-⚡ **Solar Power Forecasting using LSTM**  
-Deep Learning project using LSTM networks for time-series forecasting.
-
 📉 **SQL Data Analysis Projects**  
 Data exploration and analysis using SQL queries.
 
