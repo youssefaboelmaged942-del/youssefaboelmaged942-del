@@ -129,6 +129,6 @@ Data exploration and analysis using SQL queries.
 
 ### ⭐ Thanks for visiting my profile!
 
-"Turning Data into Decisions with Analytics & AI."
+"Turning Data into Decisions with  AI & Analytics."
 
 </div>
