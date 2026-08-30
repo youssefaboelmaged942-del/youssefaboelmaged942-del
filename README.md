@@ -2,10 +2,8 @@
 **Junior AI & Data Analyst**
 
 ---
-
 ### About Me
-Data-driven specialist focused on building end-to-end Machine Learning, Deep Learning, and Business Intelligence solutions to solve complex business problems.
-
+Junior AI & Data Analyst skilled in Python, SQL, Power BI, and Machine Learning, dedicated to building data-driven AI solutions.
 ---
 
 ### Tech Stack
