@@ -1,5 +1,5 @@
 # Youssef Abo El-Magd
-**AI & Data Analytics Specialist**
+**Junior AI & Data Analyst**
 
 ---
 
