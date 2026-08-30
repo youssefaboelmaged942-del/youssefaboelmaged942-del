@@ -20,7 +20,7 @@ Data-driven specialist focused on building end-to-end Machine Learning, Deep Lea
 * **[SUNOVA: Solar Power Forecasting System](https://lnkd.in/erG4utvq)**  
   Intelligent solar forecasting solution featuring a Dual-Input LSTM architecture with Transfer Learning across 51 PV plants. Achieved **32.1% sMAPE** for 15-min and 24-hr horizons, integrated via a high-performance **FastAPI** backend.
 
-* **[AI Career Advisor & RAG App](https://github.com/youssefaboelmaged942-del)**  
+* **[AI Career Advisor & RAG App](https://rag-system-real.streamlit.app/)**  
   Interactive career gap analysis tool utilizing **RAG architecture**, **ChromaDB** vector storage, and **Sentence-BERT** embeddings, delivered via a **Streamlit** dashboard.
 
 ---
