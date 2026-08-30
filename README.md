@@ -2,7 +2,7 @@
 
 # Youssef Abo El-Magd
 
-### 📊 Junior Data Analyst | 🤖 AI & Deep Learning Enthusiast
+### AI & Data Analytics Specialist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%7C+Visualization;Machine+Learning+%7C+Deep+Learning;Building+Data-Driven+Solutions" />
 
