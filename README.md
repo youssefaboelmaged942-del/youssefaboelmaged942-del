@@ -10,7 +10,7 @@ Data-driven specialist focused on building end-to-end Machine Learning, Deep Lea
 
 ### Tech Stack
 * **Languages & Database:** Python, SQL (SQL Server)
-* **Data Analysis & BI:** Pandas, NumPy, Power BI, Excel, Tableau
+* **Data Analysis & BI:** Pandas, NumPy, Power BI, Excel
 * **AI & Machine Learning:** Scikit-Learn, TensorFlow, Keras, RAG Architecture, Streamlit, FastAPI
 * **Tools:** GitHub, Jupyter, Google Colab
 
