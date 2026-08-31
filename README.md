@@ -15,12 +15,14 @@ Junior AI & Data Analyst skilled in Python, SQL, Power BI, and Machine Learning,
 ---
 
 ### Featured Projects
-* **[SUNOVA: Solar Power Forecasting System](https://lnkd.in/erG4utvq)**  
-  Intelligent solar forecasting solution featuring a Dual-Input LSTM architecture with Transfer Learning across 51 PV plants. Achieved **32.1% sMAPE** for 15-min and 24-hr horizons, integrated via a high-performance **FastAPI** backend.
+**[SUNOVA: Solar Power Forecasting System](https://github.com/youssefaboelmaged942-del/SUNOVA-Solar-Power-Forecasting-System)**
+  Intelligent solar forecasting solution featuring a Dual-Input LSTM architecture with Transfer Learning across 51 PV plants. Achieved 32.1% sMAPE for 15-min and 24-hr horizons, integrated via a high-performance FastAPI backend.
 
-* **[AI Career Advisor & RAG App](https://rag-system-real.streamlit.app/)**  
-  Interactive career gap analysis tool utilizing **RAG architecture**, **ChromaDB** vector storage, and **Sentence-BERT** embeddings, delivered via a **Streamlit** dashboard.
+* **[Egypt Malls Sales Performance & Analytics](https://github.com/youssefaboelmaged942-del/egypt-malls-sales-analytics)**
+  Interactive Power BI dashboard analyzing historical sales performance, revenue trends, and operational metrics from 2014 to 2017 to drive data-driven decision-making.
 
+* **[AI Career Advisor & RAG App](https://github.com/youssefaboelmaged942-del/rag-system)**
+  Interactive career gap analysis tool utilizing RAG architecture, ChromaDB vector storage, and Sentence-BERT embeddings, delivered via a Streamlit dashboard.
 ---
 
 ### Connect with Me
